@@ -3,8 +3,8 @@
 int main(int argc, char *argv[])
 {
 	//this line of Program Code will create the Video Game known as "Dark Souls"
-	//the value of this "Variable" is set to the integer "3", indicating "Dark Souls 3"
-	uint32_t darksouls = 3;
+	//the value of this "Variable" is set to the integer "1", indicating "Dark Souls 1"
+	uint32_t darksouls = 1;
 	
 	//this line of Program Code will allow the Video Game known as "Dark Souls" to run Good
 	//Good meaning that the Video Game will perform At Upmost Goodness on your Computer
